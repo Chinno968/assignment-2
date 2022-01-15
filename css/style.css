@@ -110,6 +110,7 @@ button.Next-page {
 .container3{
     display: flex;
     margin-top: 150px;
+    margin-right: 100px;
 }
 
 .images img{
@@ -118,3 +119,17 @@ button.Next-page {
     display: flex;
     margin-right: 50px;
 }
+
+/* footer */
+
+.foot{
+
+    background-color:black ;
+    margin-right: 100px;
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+    height: 150px;
+    padding-top: 30px;
+}
+
